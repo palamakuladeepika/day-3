@@ -1,4 +1,4 @@
-# Day-4-css
+# Day-3-css
 ### Index.html:
 ```html
 <!DOCTYPE html>
